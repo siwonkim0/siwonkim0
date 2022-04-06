@@ -1,8 +1,10 @@
 # Siwon Kim / Jane
+<img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=Apple&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=white"/></a>
+
 
 ### 📘 iOS 커리어 스타터 캠프(6개월)
+Studied at [Yagom Academy](https://www.yagom-academy.kr/about)  
 2021-10-04 ~ 2022-04-01 
 
 ||프로젝트|기간|Step1|Step2|Step3|Step4|
