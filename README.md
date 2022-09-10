@@ -4,5 +4,5 @@
 
 
 ### 📘 iOS 커리어 스타터 캠프(6개월)
-Studied at [Yagom Academy](https://www.yagom-academy.kr/about)  
+Studied at [Yagom Academy](https://github.com/siwonkim0/yagom-academy)  
 2021-10-04 ~ 2022-04-01 
